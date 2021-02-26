@@ -1,4 +1,4 @@
-[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/alperyilmaz/jupyterlab-r-data-mining/master/?urlpath=lab/tree/index.ipynb)
+[![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/alperyilmaz/jupyterlab-r-data-mining/main/?urlpath=lab/tree/index.ipynb)
 
 # Veri Madenciliği Yöntemleri ve R Uygulamaları - Kodlar
 
