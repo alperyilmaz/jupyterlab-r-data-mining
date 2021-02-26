@@ -1,5 +1,4 @@
 install.packages("readxl")
-install.packages("rJava")
 install.packages("RWeka")
 install.packages("partykit")
 install.packages("rpart")
