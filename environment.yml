@@ -1,0 +1,14 @@
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.0
+  - r-readxl
+  - r-rweka
+  - r-caret
+  - r-cluster
+  - r-clustercrit
+  - r-partykit
+  - r-rpart
+  - r-naivebayes
+  - r-arules
+  - r-fselector
