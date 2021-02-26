@@ -4,7 +4,10 @@
 
 *alper yilmaz, 26 Şubat 2021*
 
-*Doç. Dr. Bülent Altunkaynak* tarafından yazılan "[Veri Madenciliği Yöntemleri ve R Uygulamaları](https://www.seckin.com.tr/kitap/445277636#)" kitabının içeriğindeki R kodlarını çalıştırmak için hazırlanmıştır.
+*Doç. Dr. Bülent Altunkaynak* tarafından yazılan "[Veri Madenciliği Yöntemleri ve R Uygulamaları](https://www.seckin.com.tr/kitap/445277636#)" kitabının içeriğindeki R kodlarını çalıştırmak için hazırlanmıştır. 
+
+* Kitabı satın almak için [link](https://www.seckin.com.tr/kitap/445277636#)
+* Kitaba online olarak Turcademy üzerinden erişmek için [link](https://www.turcademy.com/tr/kitap/veri-madenciligi-yontemleri-ve-r-uygulamalari-9789750253478)
 
 ![kitap kapağı](https://www.seckin.com.tr/getimage/book/677941917_400_wm.jpg)
 
